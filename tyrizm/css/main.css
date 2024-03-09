@@ -1,0 +1,141 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+
+html, body {
+	height: 100%;
+	font-family: 'Roboto', sans-serif;;
+}
+
+.first {
+	width: 100%;
+	height: 100%;
+	background: black;
+	color: white;
+	background: url(../img/img1.jpg);
+	background-size: cover;
+}
+
+.tourism {
+	text-align: center;
+	font-size: 20px;
+	padding-top: 95px ;
+}
+
+.first-line {
+	font-size: 30px;
+	text-transform: uppercase;
+	opacity: 0.5;
+}
+
+.second-line {
+	font-size: 60px;
+	font-weight: bolder;
+	letter-spacing: 6px;
+	line-height: 53px;
+}
+
+.text-forest {
+	margin-left: 13%;
+	margin-top: 150px;
+	width: 520px;
+}
+
+.third-line {
+	font-size: 20px;
+}
+
+
+.second {
+	height: 100%;
+}
+
+
+.gallery-content {
+	width: 60%;
+	margin: auto;
+	padding-top: 10%;
+
+
+}
+
+.Gallery {
+	font-weight: bolder;
+	font-size: 44px;
+	text-align: left;
+}
+
+.gallery-text {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.Gallery-p {
+
+}
+
+.img21 {
+	width: 60%;
+	height: 50%;
+
+
+}
+
+.img22 {
+	width: 100%;
+	text-align: right;
+	margin-bottom: 20px;
+}
+
+.img23 {
+	width: 100%;
+	text-align: right;
+	
+}
+
+.Gallery-img {
+	display: flex;
+
+
+}
+
+.Gallery-small-img {
+	margin-left: 20px;
+	margin-bottom: 20px;
+
+
+}
+
+.text {
+	margin: auto;
+	width: 50%;
+	color: white;
+}
+
+
+.three {
+	height: 35%;
+	width: 100%;
+	background: url(../img/img3.jpg);
+	background-size: cover;
+	padding-top: 95px;
+}
+
+.ramka {
+	color: white;
+	font-size: 25px;
+	text-align: center;
+	border: 1px solid; #FFFFFF ;
+	margin: 20px auto;
+	width: 155px;
+	height: 36px;
+}
+
+.info {
+	padding-top: 50px;
+
+}
+
